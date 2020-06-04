@@ -1,0 +1,24 @@
+.number {
+  color: black;
+  background-color: green;
+  font-family: 'Roboto', sans-serif;
+  font-size: 342px;
+  font-weight: 100; }
+
+.logo {
+  color: #0f1c2e;
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28.8px;
+  font-variant: small-caps; }
+
+.logo-simple {
+  font-family: 'Istok Web', sans-serif;
+  background-color: black;
+  color: white;
+  font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33; }
